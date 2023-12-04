@@ -11,6 +11,8 @@ If you enjoyed my talk, you can find more of my stuff at:
 * on Medium: https://medium.com/@security-by-accident
 * on Mastodon: https://infosec.exchange/@secbyaccident
 
+If you are inspired by my talk and create a tool, please send me a message on any of these channels.
+
 
 ![image](https://github.com/her0marodeur/Rattling-Gears-Snake-oil-summit/assets/101996103/2caa037c-8040-4e3f-8864-8a74d2815faa)
 
