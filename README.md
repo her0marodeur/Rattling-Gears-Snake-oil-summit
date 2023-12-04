@@ -1,6 +1,7 @@
 # Rattling Gears Snake Oil? Summit
 Links and resources from my Talk at Antisyphons 2023 "Snake Oil?" Summit 
 
+
 Recording at: *tbd*
 
 
