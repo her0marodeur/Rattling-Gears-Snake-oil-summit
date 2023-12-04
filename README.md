@@ -1,5 +1,7 @@
 # Rattling Gears Snake Oil? Summit
-Links and resources from my Talk at Antisyphons 2023 "Snake Oil?" Summit Recording at: *tbd*
+Links and resources from my Talk at Antisyphons 2023 "Snake Oil?" Summit 
+
+Recording at: *tbd*
 
 
 ![image](https://github.com/her0marodeur/Rattling-Gears-Snake-oil-summit/assets/101996103/2caa037c-8040-4e3f-8864-8a74d2815faa)
