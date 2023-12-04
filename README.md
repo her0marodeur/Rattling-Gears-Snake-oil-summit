@@ -25,6 +25,13 @@ As close as possible to the magic tool: https://github.com/smicallef/spiderfoot
 * MongoDB: https://www.mongodb.com/
 * Neo4j Graph Database: https://neo4j.com/
 
+### The Cloud
+* Docker: https://www.docker.com/
+* Portainer: https://www.portainer.io/
+* Render: https://render.com/
+* Grafana: https://grafana.com/
+* If you wanna scale to the moon: https://github.com/pry0cc/axiom
+
 ### AI
 * Download local LLMs: https://gpt4all.io
 * LangChain for using LLMs in code: https://www.langchain.com/
