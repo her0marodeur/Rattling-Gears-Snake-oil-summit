@@ -22,6 +22,7 @@ As close as possible to the magic tool: https://github.com/smicallef/spiderfoot
 * Inteltechniques: https://inteltechniques.com/
 * SANS OSINT Summit 2022 (checkout the other years too): https://www.youtube.com/watch?v=fbyFp1u2lQY&list=PLs4eo9Tja8biLhHrp8W-N9LheHjUkaSDr
 * https://www.osintcurio.us/
+* [The Cyber Mentor OSINT course](https://www.youtube.com/watch?v=qwA6MmbeGNo&pp=ygUWb3NpbnQgdGhlIGN5YmVyIG1lbnRvcg%3D%3D) This OSINT course is provided by TCM for free on YouTube. It is a good place to get started.
 
 ### Tools Speed Dating
 * https://github.com/projectdiscovery
