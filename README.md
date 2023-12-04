@@ -16,6 +16,7 @@ If you are inspired by my talk and create a tool, please send me a message on an
 
 ![image](https://github.com/her0marodeur/Rattling-Gears-Snake-oil-summit/assets/101996103/2caa037c-8040-4e3f-8864-8a74d2815faa)
 
+Our own shot at a magic tool: https://github.com/elpato-dev/OSINT-compass
 As close as possible to the magic tool: https://github.com/smicallef/spiderfoot
 
 ### Storing Data:
@@ -48,6 +49,7 @@ As close as possible to the magic tool: https://github.com/smicallef/spiderfoot
 * https://github.com/awesome-selfhosted/awesome-selfhosted
 
 
+![image](https://github.com/her0marodeur/Rattling-Gears-Snake-oil-summit/assets/101996103/0db8719d-d7d4-4046-9840-39eba1b8ae0b)
 
 
 
