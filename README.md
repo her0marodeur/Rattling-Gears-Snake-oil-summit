@@ -2,7 +2,7 @@
 Links and resources from my Talk at Antisyphons 2023 "Snake Oil?" Summit: https://www.antisyphontraining.com/series/snake-oil-summit-2023/
 
 
-Recording at: *tbd*
+Recording at: https://www.youtube.com/watch?v=CK_yvE39vEg
 
 ### Ads:
 If you enjoyed my talk, you can find more of my stuff at:
